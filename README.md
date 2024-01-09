@@ -15,7 +15,7 @@ And conformly, I will implement everything said by Aleksa Gordić, shared in his
 
 Let's embark on this journey together! Share your tips, experiences, and recommendations for mastering AI and ML. 🌐💡
 
-💡If you want to join this amazing world of machine learning, but don't know how, you can check out this amazing medium blog by Aleksa Gordić - [Insert Medium Blog Link]
+💡If you want to join this amazing world of machine learning, but don't know how, you can check out this amazing medium blog by Aleksa Gordić - [[3months program].](https://gordicaleksa.medium.com/get-started-with-ai-and-machine-learning-in-3-months-5236d5e0f230)
 
 👉 Here's a realization: I know mastering these skills in just 300 days is ambitious, but my aim is to attain a professional level. Let's embrace the journey and build a community of professionals passionate about AI and ML. What are your favorite AI and ML resources? Share your go-to courses, books, or platforms that have helped you on your journey! Let's build a collective repository of knowledge. 📚🚀
 
